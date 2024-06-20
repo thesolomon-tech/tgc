@@ -1,6 +1,6 @@
 # Testing Gemini Capabilities (TGC) A simple Gemini tester with React, Vite and Typescript
 
-If using, place a .env in root with the structure:
+If using, place a .env file in the root folder and with the structure:
 ```
 VITE_FIREBASE_API_KEY=""
 VITE_FIREBASE_AUTH_DOMAIN=""
