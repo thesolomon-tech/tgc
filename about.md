@@ -1,0 +1,1 @@
+# Testing Gemini Capabilities (TGC) A simple Gemini tester with React, Vite, Typescript
