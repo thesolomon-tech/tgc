@@ -12,6 +12,3 @@ const firebaseConfig = {
 // Initialize FirebaseApp
 
 export const firebaseApp = initializeApp(firebaseConfig);
-export const test = (): void => {
-  console.log(import.meta.env.FIREBASE_API_KEY);
-}

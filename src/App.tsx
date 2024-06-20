@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { Container, TextField, Button, Grid, Paper, Typography } from '@mui/material';
 import { Gemini } from './Gemini';
-import { test } from './firebase';
 import Markdown from 'react-markdown';
 function App() {
   const [prompt, setPrompt] = useState('');
