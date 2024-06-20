@@ -11,4 +11,4 @@ VITE_FIREBASE_APP_ID=""
 VITE_FIREBASE_MEASUREMENT_ID=""
 ```
 
-This product has no warranty. It was only made to easily see the capabilities of the Firebase Gemini AI.
+Use at your own risk. It was only made to easily see the capabilities of the Firebase Gemini AI.
